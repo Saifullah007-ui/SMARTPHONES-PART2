@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="api_key">81fbdadd6d7cb1526f9436bd9e00d35d</string>
+    <string name="search">Search</string>
+    <string name="favorites">favorites</string>
+    <string name="choose_a_city">Choose a city</string>
+    <string name="clouds">Cloudy</string>
+    <string name="temperature">26°C</string>
+    <string name="date">Sunday | 12 Dec 2023</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
